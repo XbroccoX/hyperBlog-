@@ -11,3 +11,6 @@ Experimento 2
 Mañana nos enfocaremos de su vida laboral
 
 Creado por increible platzi team
+
+Incluye ejemplos window linux y mac
+ disponible a todos
